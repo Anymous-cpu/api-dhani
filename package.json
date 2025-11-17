@@ -1,11 +1,11 @@
 {
-  "name": "api-dhanl",
+  "name": "api-dhani",
   "version": "1.0.0",
   "description": "REST API by DhaniOfficiall - Deployed on Vercel",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js",
+    "dev": "node index.js", 
     "build": "echo 'No build step required for Node.js'"
   },
   "engines": {
@@ -13,20 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anynr/api-dhanl.git"
+    "url": "git+https://github.com/Anymous-cpu/api-dhani.git"
   },
   "keywords": [
     "restapi",
-    "vercel",
+    "vercel", 
     "nodejs",
     "express"
   ],
   "author": "DhaniOfficiall",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anynr/api-dhanl/issues"
+    "url": "https://github.com/Anymous-cpu/api-dhani/issues"
   },
-  "homepage": "https://github.com/Anynr/api-dhanl#readme",
+  "homepage": "https://github.com/Anymous-cpu/api-dhani#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "axios": "^0.27.2",
